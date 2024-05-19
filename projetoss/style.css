@@ -42,7 +42,8 @@ body {
 }
 
 #container {
-  width: 360px;
+  width: 100px;
+  max-width: 588px;
   /* aqui eu poderia desmembrar a margem em:
   margin-top: 56px;
   margin-right: auto;
